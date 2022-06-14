@@ -1,4 +1,4 @@
-Garfield: The Movie (Home video)
+*Garfield: The Movie* (Home video)
 ================================
 
 Timeline
