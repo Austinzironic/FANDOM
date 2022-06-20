@@ -8,7 +8,7 @@ Pozitív visszajelzéseket kapott a kritikusoktól a két előző filmmel szembe
 
 ## Szinopsis
 
-Három évvel A klónok támadása eseményei után (a *Star Wars* kronológiája szerint 19 YE-ben) a polgárháború még mindig folyik a Galaktikus Köztársaság és szakadár Független Rendszerek Konföderáció között. Miután a szeparatisták egyik vezéralakja, Dooku gróf és egyik rettegett hadura, Grievous tábornok váratlanul betörnek Coruscantra és elrabolják Palpatine főkancellárt, a bolygó felett hatalmas űrcsata veszi kezdetét.
+Három évvel *A klónok támadása* eseményei után (a *Star Wars* kronológiája szerint 19 YE-ben) a polgárháború még mindig folyik a Galaktikus Köztársaság és szakadár Független Rendszerek Konföderáció között. Miután a szeparatisták egyik vezéralakja, Dooku gróf és egyik rettegett hadura, Grievous tábornok váratlanul betörnek Coruscantra és elrabolják Palpatine főkancellárt, a bolygó felett hatalmas űrcsata veszi kezdetét.
 
 Az ütközetet a tábornoki rangot viselő Obi-Wan Kenobi és Anakin Skywalker vezeti, akiknek feladata, hogy kiszabadítsák a főkancellárt. Vadászgépeikkel sikerül behatolniuk Grievous parancsnoki hajójára, ahol sikeresen eljutnak a fogva tartott főkancellárhoz. Dooku gróf megjelenik a helységben és párbajra hívja a jediket, amelynek során harcképtelenné teszi Kenobit, Anakin azonban felülkerekedik rajta: a gróf mindkét karját lemetszi, majd (noha ez ellenkezik a jedi tanokkal) Palpatine buzdítására lefejezi fegyvertelen ellenfelét. Mikor kifejezi bűntudatát, a kancellár meggyőzi arról, hogy a bosszúja jogos és érthető volt, pont, mint a buckalakók esetében, akik korábban elrabolták és meggyilkolták az édesanyját (az előző film eseményei során).
 
