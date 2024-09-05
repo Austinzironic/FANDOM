@@ -37,5 +37,4 @@
 <ul>
 <li><img src="https://github.com/user-attachments/assets/931e5b14-7ef9-4505-9d2e-98abc310d3e9" width="155px"><br>裏表紙</li>
 </ul>
-
 </div>
