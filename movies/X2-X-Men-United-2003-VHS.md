@@ -10,7 +10,7 @@
 <tr>
 <th>Format</th>
 <td>VHS</td>
-</tr
+</tr>
 <tr>
 <th>Running time</th>
 <td>134 minutes</td>
