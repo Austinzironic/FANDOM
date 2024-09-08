@@ -1,4 +1,4 @@
-# *Planet of the Apes* (2001 DVD)
+# *Planet of the Apes* (DVD)
 
 <table style="float: right; width: 350px;">
 <tr>
