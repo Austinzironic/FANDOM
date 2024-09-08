@@ -1,4 +1,4 @@
-# *Star Wars: Episode II – Attack of the Clones* (2002 VHS)
+# *Star Wars: Episode II – Attack of the Clones* (VHS)
 
 <table style="float: right; width: 350px;">
 <tr>
