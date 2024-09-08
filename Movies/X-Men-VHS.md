@@ -1,11 +1,11 @@
-# *X-Men* (2000 VHS)
+# *X-Men* (VHS)
 
 <table style="float: right; width: 350px;">
 <tr>
 <th colspan="2" style="font-size: 125%;"><i>X-Men</i></th>
 </tr>
 <tr>
-<td colspan="2" style="text-align: center;"><img src="https://images.45worlds.com/f/dv/xmen-74-dv.jpg" width="250px"><br>Front cover</td>
+<td colspan="2" style="text-align: center;"><img src="https://austinzironic.github.io/FANDOM/Movies/images/024543007418_front.png" width="250px"><br>Front cover</td>
 </tr>
 <tr>
 <th>Format</th>
@@ -32,4 +32,4 @@ Two mutants, Rogue and Wolverine, come to a private academy for their kind whose
 
 ## Gallery
 ### Covers
-* <img src="https://images.45worlds.com/f/dv/xmen-75-dv.jpg" width="155px"><br>Back cover
+* <img src="https://austinzironic.github.io/FANDOM/Movies/images/024543007418_back.png" width="155px"><br>Back cover
