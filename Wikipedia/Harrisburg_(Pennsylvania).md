@@ -1,6 +1,6 @@
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Harrisburg%2C_PA_Skyline_2021.jpg/1280px-Harrisburg%2C_PA_Skyline_2021.jpg" width="250px" align="right">
-
 # Harrisburg (Pennsylvania)
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Harrisburg%2C_PA_Skyline_2021.jpg/1280px-Harrisburg%2C_PA_Skyline_2021.jpg" width="250px" align="right">
 
 **Harrisburg** (/ˈhærɪsˌbɜːrɡ/, Pennsylvania German: *Harrisbarrig*) is the capital city of the U.S. commonwealth of Pennsylvania and the seat of Dauphin County. With a population of 50,099 as of 2020, Harrisburg is the ninth-most populous city in Pennsylvania. It is the larger principal city of the Harrisburg–Carlisle metropolitan statistical area, also known as the Susquehanna Valley, which had a population of 591,712 in 2020 and is the fourth-most populous metro area in Pennsylvania. Harrisburg is situated on the east bank of the Susquehanna River and is located 83 miles (134 km) southwest of Allentown and 107 miles (172 km) northwest of Philadelphia.
 
