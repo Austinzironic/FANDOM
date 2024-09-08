@@ -1,4 +1,4 @@
-# *X-Men* (2000 DVD)
+# *X-Men* (DVD)
 
 <table style="float: right; width: 350px;">
 <tr>
